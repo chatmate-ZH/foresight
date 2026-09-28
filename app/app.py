@@ -21,6 +21,21 @@ sys.path.insert(0, str(ROOT / "src"))
 
 st.set_page_config(page_title="FORESIGHT — NorthBay Living Planning Dashboard", layout="wide")
 
+# Hide Streamlit Deploy button and clean up header
+st.markdown(
+    """
+    <style>
+    .stAppDeployButton,
+    [data-testid="stAppDeployButton"],
+    [data-testid="stHeader"] .stAppDeployButton,
+    button[title="Deploy this app"] {
+        display: none !important;
+    }
+    </style>
+    """,
+    unsafe_allow_html=True,
+)
+
 
 @st.cache_data
 def load_data():
