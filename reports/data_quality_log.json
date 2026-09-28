@@ -1,0 +1,68 @@
+[
+  {
+    "table": "sku_master",
+    "issue": "duplicate sku_id rows",
+    "action": "kept first occurrence, dropped rest",
+    "rows_affected": 5
+  },
+  {
+    "table": "sku_master",
+    "issue": "inconsistent category labels (15 raw variants)",
+    "action": "canonicalised via lookup map to 5 categories",
+    "rows_affected": 205
+  },
+  {
+    "table": "sku_master",
+    "issue": "missing unit_cost",
+    "action": "imputed with category median",
+    "rows_affected": 6
+  },
+  {
+    "table": "sales_daily",
+    "issue": "duplicate (date, sku_id) rows",
+    "action": "kept first occurrence, dropped rest",
+    "rows_affected": 40
+  },
+  {
+    "table": "sales_daily",
+    "issue": "negative units_sold (data-entry error)",
+    "action": "took absolute value",
+    "rows_affected": 14
+  },
+  {
+    "table": "sales_daily",
+    "issue": "missing unit_price",
+    "action": "imputed with SKU median (fallback: global median)",
+    "rows_affected": 971
+  },
+  {
+    "table": "sales_daily",
+    "issue": "missing/inconsistent revenue",
+    "action": "recomputed as units_sold * unit_price",
+    "rows_affected": 971
+  },
+  {
+    "table": "sales_daily",
+    "issue": "sales rows for unknown sku_id (orphaned FK)",
+    "action": "dropped",
+    "rows_affected": 0
+  },
+  {
+    "table": "inventory_snapshots",
+    "issue": "duplicate (date, sku_id) snapshots",
+    "action": "kept first occurrence, dropped rest",
+    "rows_affected": 10
+  },
+  {
+    "table": "inventory_snapshots",
+    "issue": "missing on_order_units",
+    "action": "filled with 0 (assume nothing on order)",
+    "rows_affected": 139
+  },
+  {
+    "table": "inventory_snapshots",
+    "issue": "inventory rows for unknown sku_id",
+    "action": "dropped",
+    "rows_affected": 0
+  }
+]

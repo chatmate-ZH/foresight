@@ -1,0 +1,201 @@
+sku_id,category,subcategory,avg_weekly_forecast,total_horizon_forecast,on_hand_units,on_order_units,lead_time_days,weeks_of_cover,stockout_risk,overstock_risk,quadrant,recommended_action,sales_at_risk_rupees,capital_locked_rupees,value_at_stake_rupees
+NB-0163,Lighting,Table Lamps,64.91766823590591,389.5060094154354,3658.0,122.0,30.0,56.3482962251063,0.0,1.0,Markdown / Clear,Promote or discount to free up capital.,0.0,10575836.0,10575836.0
+NB-0190,Lighting,Table Lamps,34.44639713787551,206.67838282725305,1971.0,74.0,30.0,57.21933681803804,0.0,1.0,Markdown / Clear,Promote or discount to free up capital.,0.0,3026137.0,3026137.0
+NB-0181,Bed & Bath,Bedding,13.690405595463057,82.14243357277834,558.0,30.0,30.0,40.75847104083745,0.0,1.0,Markdown / Clear,Promote or discount to free up capital.,0.0,1712755.0,1712755.0
+NB-0102,Decor,Cushions,12.68960208354986,76.13761250129916,972.0,35.0,30.0,76.59814654551306,0.0,1.0,Markdown / Clear,Promote or discount to free up capital.,0.0,1182543.0,1182543.0
+NB-0033,Furniture,Sofas,36.18138241605533,217.08829449633197,576.0,66.0,30.0,15.919789724352892,0.0,0.9899737155441115,Markdown / Clear,Promote or discount to free up capital.,0.0,958417.0,958417.0
+NB-0133,Decor,Cushions,42.42980976300042,254.57885857800252,0.0,66.0,21.0,0.0,0.6111224610205934,0.0,Reorder Now,Raise a replenishment order before stock runs out.,952358.0,0.0,952358.0
+NB-0065,Small Appliances,Toasters,74.61779032460366,447.70674194762194,0.0,63.0,14.0,0.0,0.7185657748822979,0.0,Reorder Now,Raise a replenishment order before stock runs out.,785632.0,0.0,785632.0
+NB-0156,Small Appliances,Toasters,57.24423764683906,343.4654258810344,18.0,62.0,21.0,0.31444212972227314,0.650619855864141,0.0,Reorder Now,Raise a replenishment order before stock runs out.,666431.0,0.0,666431.0
+NB-0199,Furniture,Chairs,76.93970891450792,461.6382534870475,0.0,85.0,14.0,0.0,0.6317462889700284,0.0,Reorder Now,Raise a replenishment order before stock runs out.,611458.0,0.0,611458.0
+NB-0023,Decor,Wall Art,26.440829279713288,158.64497567827974,0.0,38.0,21.0,0.0,0.6407071843511024,0.0,Reorder Now,Raise a replenishment order before stock runs out.,551057.0,0.0,551057.0
+NB-0099,Decor,Candles,41.138773799964014,246.83264279978408,0.0,21.0,7.0,0.0,0.7447663352569545,0.0,Reorder Now,Raise a replenishment order before stock runs out.,550373.0,0.0,550373.0
+NB-0090,Small Appliances,Toasters,42.35955737616083,254.15734425696496,0.0,18.0,7.0,0.0,0.78753319067812,0.0,Reorder Now,Raise a replenishment order before stock runs out.,538820.0,0.0,538820.0
+NB-0105,Small Appliances,Toasters,50.0679413994996,300.4076483969976,0.0,57.0,14.0,0.0,0.620515653951175,0.0,Reorder Now,Raise a replenishment order before stock runs out.,530962.0,0.0,530962.0
+NB-0176,Furniture,Chairs,21.365659743628395,128.19395846177036,527.0,70.0,30.0,24.6657489786694,0.0,1.0,Markdown / Clear,Promote or discount to free up capital.,0.0,518797.0,518797.0
+NB-0132,Decor,Rugs,36.79305369080187,220.75832214481122,0.0,46.0,14.0,0.0,0.5832546691505899,0.0,Reorder Now,Raise a replenishment order before stock runs out.,487754.0,0.0,487754.0
+NB-0003,Decor,Wall Art,32.81309059587283,196.87854357523696,0.0,5.0,7.0,0.0,0.9238108951457793,0.0,Reorder Now,Raise a replenishment order before stock runs out.,411002.0,0.0,411002.0
+NB-0195,Small Appliances,Toasters,29.62037987904071,177.72227927424424,0.0,2.0,7.0,0.0,0.9662394606658101,0.0,Reorder Now,Raise a replenishment order before stock runs out.,410563.0,0.0,410563.0
+NB-0100,Lighting,Floor Lamps,28.42169086366431,170.53014518198586,497.0,80.0,30.0,17.486644351458672,0.0,1.0,Markdown / Clear,Promote or discount to free up capital.,0.0,366865.0,366865.0
+NB-0088,Small Appliances,Kettles,38.31135511052576,229.86813066315455,0.0,28.0,7.0,0.0,0.6345730930265736,0.0,Reorder Now,Raise a replenishment order before stock runs out.,361708.0,0.0,361708.0
+NB-0130,Bed & Bath,Towels,58.10865730921031,348.65194385526183,0.0,48.0,14.0,0.0,0.7246537651892366,0.0,Reorder Now,Raise a replenishment order before stock runs out.,359960.0,0.0,359960.0
+NB-0049,Lighting,Pendant Lights,38.28541920617334,229.71251523704004,0.0,50.0,21.0,0.0,0.6735049462907687,0.0,Reorder Now,Raise a replenishment order before stock runs out.,353974.0,0.0,353974.0
+NB-0140,Decor,Wall Art,14.12174471262964,84.73046827577784,224.0,20.0,21.0,15.86206269538833,0.0,0.9827578369235412,Markdown / Clear,Promote or discount to free up capital.,0.0,351699.0,351699.0
+NB-0134,Lighting,Table Lamps,40.727985633652885,244.36791380191733,0.0,65.0,21.0,0.0,0.6010114483400111,0.0,Reorder Now,Raise a replenishment order before stock runs out.,350350.0,0.0,350350.0
+NB-0119,Lighting,Table Lamps,28.30650340366174,169.83902042197045,0.0,15.0,7.0,0.0,0.7350432198195911,0.0,Reorder Now,Raise a replenishment order before stock runs out.,350342.0,0.0,350342.0
+NB-0005,Decor,Candles,18.2000462371586,109.2002774229516,0.0,35.0,30.0,0.0,0.6361755604717961,0.0,Reorder Now,Raise a replenishment order before stock runs out.,345618.0,0.0,345618.0
+NB-0004,Decor,Wall Art,19.717372669532946,118.30423601719768,0.0,4.0,14.0,0.0,0.9323777383690889,0.0,Reorder Now,Raise a replenishment order before stock runs out.,335787.0,0.0,335787.0
+NB-0009,Small Appliances,Toasters,22.858852137811123,137.15311282686673,0.0,27.0,14.0,0.0,0.6062794428284969,0.0,Reorder Now,Raise a replenishment order before stock runs out.,335359.0,0.0,335359.0
+NB-0034,Decor,Wall Art,33.12767320982629,198.76603925895776,0.0,48.0,21.0,0.0,0.6377650816586607,0.0,Reorder Now,Raise a replenishment order before stock runs out.,334554.0,0.0,334554.0
+NB-0036,Small Appliances,Toasters,34.23217235891202,205.39303415347212,19.0,40.0,21.0,0.5550334288105304,0.5691187855286671,0.0,Reorder Now,Raise a replenishment order before stock runs out.,320649.0,0.0,320649.0
+NB-0022,Decor,Candles,41.42901455122214,248.57408730733283,0.0,31.0,14.0,0.0,0.7505773804839753,0.0,Reorder Now,Raise a replenishment order before stock runs out.,320257.0,0.0,320257.0
+NB-0020,Decor,Candles,20.559857622772157,123.35914573663294,0.0,25.0,14.0,0.0,0.5946794240392351,0.0,Reorder Now,Raise a replenishment order before stock runs out.,307720.0,0.0,307720.0
+NB-0046,Furniture,Tables,33.28982172473204,199.73893034839224,0.0,31.0,7.0,0.0,0.5343922196950497,0.0,Reorder Now,Raise a replenishment order before stock runs out.,302379.0,0.0,302379.0
+NB-0031,Lighting,Table Lamps,55.809477334319894,334.85686400591936,0.0,68.0,14.0,0.0,0.5938563170752388,0.0,Reorder Now,Raise a replenishment order before stock runs out.,276938.0,0.0,276938.0
+NB-0030,Decor,Rugs,23.717684989447033,142.3061099366822,0.0,5.0,7.0,0.0,0.8945934225405071,0.0,Reorder Now,Raise a replenishment order before stock runs out.,265869.0,0.0,265869.0
+NB-0096,Decor,Rugs,31.074489966656575,186.44693979993946,0.0,21.0,14.0,0.0,0.7747348385279658,0.0,Reorder Now,Raise a replenishment order before stock runs out.,260459.0,0.0,260459.0
+NB-0021,Decor,Candles,25.516304736025035,153.0978284161502,0.0,9.0,7.0,0.0,0.8236421752070274,0.0,Reorder Now,Raise a replenishment order before stock runs out.,250670.0,0.0,250670.0
+NB-0006,Decor,Candles,16.69794848473953,100.18769090843719,0.0,13.0,14.0,0.0,0.7404870821530188,0.0,Reorder Now,Raise a replenishment order before stock runs out.,241771.0,0.0,241771.0
+NB-0138,Bed & Bath,Bedding,27.123628942947686,162.7417736576861,0.0,11.0,7.0,0.0,0.7972247735887851,0.0,Reorder Now,Raise a replenishment order before stock runs out.,236267.0,0.0,236267.0
+NB-0118,Furniture,Storage,18.673434470407244,112.04060682244346,0.0,21.0,14.0,0.0,0.6251359110669619,0.0,Reorder Now,Raise a replenishment order before stock runs out.,234177.0,0.0,234177.0
+NB-0083,Furniture,Storage,20.980199538185346,125.88119722911208,0.0,14.0,7.0,0.0,0.666352077001959,0.0,Reorder Now,Raise a replenishment order before stock runs out.,230641.0,0.0,230641.0
+NB-0091,Small Appliances,Kettles,41.15471931645488,246.9283158987293,23.0,78.0,30.0,0.5588666471794868,0.5357006820729763,0.0,Reorder Now,Raise a replenishment order before stock runs out.,210281.0,0.0,210281.0
+NB-0041,Furniture,Storage,26.349999661123434,158.0999979667406,0.0,35.0,14.0,0.0,0.5572422460452792,0.0,Reorder Now,Raise a replenishment order before stock runs out.,209260.0,0.0,209260.0
+NB-0194,Decor,Cushions,17.394959906519748,104.3697594391185,0.0,13.0,7.0,0.0,0.6263285437315808,0.0,Reorder Now,Raise a replenishment order before stock runs out.,208467.0,0.0,208467.0
+NB-0187,Furniture,Tables,38.471775259347844,230.83065155608708,0.0,74.0,21.0,0.0,0.5191279873287136,0.0,Reorder Now,Raise a replenishment order before stock runs out.,201954.0,0.0,201954.0
+NB-0070,Lighting,Pendant Lights,31.250033340082847,187.50020004049708,0.0,21.0,7.0,0.0,0.6640003584721883,0.0,Reorder Now,Raise a replenishment order before stock runs out.,201816.0,0.0,201816.0
+NB-0154,Lighting,Floor Lamps,7.463428763357677,44.780572580146064,116.0,15.0,30.0,15.542454236250185,0.0,0.9428067795312731,Markdown / Clear,Promote or discount to free up capital.,0.0,193851.0,193851.0
+NB-0166,Small Appliances,Blenders,29.101955047794906,174.61173028676944,0.0,34.0,14.0,0.0,0.6105645371687125,0.0,Reorder Now,Raise a replenishment order before stock runs out.,183180.0,0.0,183180.0
+NB-0055,Small Appliances,Air Purifiers,19.853341984609788,119.12005190765873,8.0,17.0,14.0,0.4029548277666078,0.5802553877431169,0.0,Reorder Now,Raise a replenishment order before stock runs out.,178978.0,0.0,178978.0
+NB-0126,Furniture,Storage,16.22604513258709,97.35627079552253,0.0,24.0,14.0,0.0,0.5069655030150606,0.0,Reorder Now,Raise a replenishment order before stock runs out.,169647.0,0.0,169647.0
+NB-0075,Furniture,Sofas,26.80364293179586,160.82185759077515,9.0,0.0,7.0,0.33577525349450676,0.8321123732527466,0.0,Reorder Now,Raise a replenishment order before stock runs out.,168953.0,0.0,168953.0
+NB-0098,Decor,Cushions,31.935214077131544,191.61128446278926,0.0,23.0,7.0,0.0,0.6398959477076115,0.0,Reorder Now,Raise a replenishment order before stock runs out.,164758.0,0.0,164758.0
+NB-0039,Furniture,Storage,18.89879846010222,113.39279076061332,0.0,12.0,7.0,0.0,0.6825194991805026,0.0,Reorder Now,Raise a replenishment order before stock runs out.,162994.0,0.0,162994.0
+NB-0142,Small Appliances,Toasters,66.40388346282423,398.4233007769453,35.0,32.0,14.0,0.5270776071341448,0.6636742887810695,0.0,Reorder Now,Raise a replenishment order before stock runs out.,161528.0,0.0,161528.0
+NB-0183,Lighting,Table Lamps,26.86098989150787,161.16593934904722,0.0,61.0,30.0,0.0,0.5703605642549646,0.0,Reorder Now,Raise a replenishment order before stock runs out.,160372.0,0.0,160372.0
+NB-0106,Lighting,Floor Lamps,21.907543139585787,131.44525883751473,0.0,25.0,14.0,0.0,0.6196135148411309,0.0,Reorder Now,Raise a replenishment order before stock runs out.,155973.0,0.0,155973.0
+NB-0128,Lighting,Pendant Lights,21.343080106799665,128.058480640798,0.0,11.0,7.0,0.0,0.7423052355855722,0.0,Reorder Now,Raise a replenishment order before stock runs out.,153793.0,0.0,153793.0
+NB-0064,Bed & Bath,Towels,25.524985495383095,153.14991297229858,0.0,23.0,7.0,0.0,0.5494610564194015,0.0,Reorder Now,Raise a replenishment order before stock runs out.,151885.0,0.0,151885.0
+NB-0097,Lighting,Table Lamps,15.760732803462213,94.56439682077328,0.0,22.0,14.0,0.0,0.5347086062062802,0.0,Reorder Now,Raise a replenishment order before stock runs out.,150600.0,0.0,150600.0
+NB-0191,Furniture,Chairs,12.007279107306063,72.04367464383638,0.0,19.0,21.0,0.0,0.6044066305488168,0.0,Reorder Now,Raise a replenishment order before stock runs out.,148666.0,0.0,148666.0
+NB-0186,Furniture,Storage,31.891802808402673,191.35081685041604,0.0,47.0,14.0,0.0,0.5087556899562009,0.0,Reorder Now,Raise a replenishment order before stock runs out.,139146.0,0.0,139146.0
+NB-0145,Lighting,Pendant Lights,27.875566641630837,167.253399849785,0.0,35.0,14.0,0.0,0.5814733807332528,0.0,Reorder Now,Raise a replenishment order before stock runs out.,131644.0,0.0,131644.0
+NB-0086,Small Appliances,Air Purifiers,30.061874046988752,180.37124428193252,377.0,54.0,21.0,12.540801661623735,0.0,0.5676002077029669,Markdown / Clear,Promote or discount to free up capital.,0.0,126521.0,126521.0
+NB-0180,Furniture,Chairs,15.209538998089782,91.25723398853869,10.0,4.0,7.0,0.6574821236367476,0.5397625134542767,0.0,Reorder Now,Raise a replenishment order before stock runs out.,125838.0,0.0,125838.0
+NB-0008,Furniture,Chairs,16.259097410255013,97.55458446153007,5.0,5.0,7.0,0.30752014542002665,0.6924798545799734,0.0,Reorder Now,Raise a replenishment order before stock runs out.,125177.0,0.0,125177.0
+NB-0018,Small Appliances,Blenders,21.125003175354582,126.75001905212748,0.0,8.0,7.0,0.0,0.8106509160355257,0.0,Reorder Now,Raise a replenishment order before stock runs out.,124776.0,0.0,124776.0
+NB-0169,Furniture,Storage,29.770065702203652,178.6203942132219,0.0,27.0,14.0,0.0,0.6976828976452747,0.0,Reorder Now,Raise a replenishment order before stock runs out.,124684.0,0.0,124684.0
+NB-0121,Decor,Candles,6.579647003726291,39.47788202235775,0.0,1.0,7.0,0.0,0.9240080813276408,0.0,Reorder Now,Raise a replenishment order before stock runs out.,122055.0,0.0,122055.0
+NB-0149,Decor,Rugs,16.683867494661456,100.10320496796874,0.0,8.0,7.0,0.0,0.7602474365563063,0.0,Reorder Now,Raise a replenishment order before stock runs out.,115696.0,0.0,115696.0
+NB-0085,Decor,Rugs,7.301400481216479,43.808402887298875,0.0,9.0,14.0,0.0,0.5891199218947414,0.0,Reorder Now,Raise a replenishment order before stock runs out.,113931.0,0.0,113931.0
+NB-0170,Small Appliances,Blenders,13.1123662286792,78.6741973720752,0.0,17.0,14.0,0.0,0.5678379807396925,0.0,Reorder Now,Raise a replenishment order before stock runs out.,111965.0,0.0,111965.0
+NB-0178,Furniture,Sofas,17.080749012190495,102.48449407314297,0.0,21.0,14.0,0.0,0.590181906249889,0.0,Reorder Now,Raise a replenishment order before stock runs out.,109847.0,0.0,109847.0
+NB-0059,Bed & Bath,Bedding,7.350441406588673,44.10264843953204,0.0,7.0,14.0,0.0,0.6825587465751626,0.0,Reorder Now,Raise a replenishment order before stock runs out.,106353.0,0.0,106353.0
+NB-0094,Furniture,Tables,21.996730889784814,131.98038533870889,0.0,18.0,7.0,0.0,0.5908482926351769,0.0,Reorder Now,Raise a replenishment order before stock runs out.,103301.0,0.0,103301.0
+NB-0011,Furniture,Chairs,10.45348162243201,62.720889734592056,0.0,6.0,7.0,0.0,0.7130142752092917,0.0,Reorder Now,Raise a replenishment order before stock runs out.,101673.0,0.0,101673.0
+NB-0016,Decor,Rugs,5.383173382002045,32.29904029201227,0.0,8.0,21.0,0.0,0.6284719331748174,0.0,Reorder Now,Raise a replenishment order before stock runs out.,97075.0,0.0,97075.0
+NB-0052,Lighting,Floor Lamps,20.55355978991828,123.32135873950966,0.0,2.0,7.0,0.0,0.9513466275321071,0.0,Reorder Now,Raise a replenishment order before stock runs out.,91712.0,0.0,91712.0
+NB-0001,Small Appliances,Blenders,8.59018741585071,51.54112449510426,0.0,7.0,14.0,0.0,0.7283722437734198,0.0,Reorder Now,Raise a replenishment order before stock runs out.,90151.0,0.0,90151.0
+NB-0013,Decor,Cushions,5.48843714936647,32.93062289619882,77.0,13.0,30.0,14.029494718526221,0.0,0.7536868398157777,Markdown / Clear,Promote or discount to free up capital.,0.0,85831.0,85831.0
+NB-0155,Bed & Bath,Bedding,9.445470899060608,56.67282539436365,6.0,2.0,7.0,0.6352250792066625,0.576516613862225,0.0,Reorder Now,Raise a replenishment order before stock runs out.,84189.0,0.0,84189.0
+NB-0200,Decor,Rugs,6.928803698053712,41.57282218832227,1.0,6.0,14.0,0.1443250586361536,0.6632415298489749,0.0,Reorder Now,Raise a replenishment order before stock runs out.,81601.0,0.0,81601.0
+NB-0002,Bed & Bath,Bath Accessories,31.024731160310882,186.1483869618653,0.0,2.0,7.0,0.0,0.9677676497877514,0.0,Reorder Now,Raise a replenishment order before stock runs out.,79199.0,0.0,79199.0
+NB-0081,Bed & Bath,Bath Accessories,26.711592588322038,160.26955552993223,0.0,26.0,14.0,0.0,0.6755466137778838,0.0,Reorder Now,Raise a replenishment order before stock runs out.,78754.0,0.0,78754.0
+NB-0146,Small Appliances,Kettles,7.858883393493236,47.15330036095941,0.0,9.0,21.0,0.0,0.7136997856638403,0.0,Reorder Now,Raise a replenishment order before stock runs out.,75438.0,0.0,75438.0
+NB-0063,Decor,Rugs,14.291402022719694,85.74841213631817,0.0,20.0,14.0,0.0,0.5335190587971451,0.0,Reorder Now,Raise a replenishment order before stock runs out.,75384.0,0.0,75384.0
+NB-0124,Bed & Bath,Bath Accessories,60.60332317357364,363.61993904144185,0.0,49.0,7.0,0.0,0.595731740158379,0.0,Reorder Now,Raise a replenishment order before stock runs out.,74170.0,0.0,74170.0
+NB-0067,Lighting,Table Lamps,30.25837503276016,181.55025019656097,0.0,31.0,14.0,0.0,0.6584967526463126,0.0,Reorder Now,Raise a replenishment order before stock runs out.,72049.0,0.0,72049.0
+NB-0107,Furniture,Chairs,11.931272783734343,71.58763670240606,0.0,11.0,7.0,0.0,0.5390265481568709,0.0,Reorder Now,Raise a replenishment order before stock runs out.,71858.0,0.0,71858.0
+NB-0060,Small Appliances,Air Purifiers,12.84768208372448,77.08609250234689,1.0,11.0,7.0,0.07783505176134502,0.5329896894319299,0.0,Reorder Now,Raise a replenishment order before stock runs out.,71682.0,0.0,71682.0
+NB-0095,Lighting,Table Lamps,32.01161769492861,192.06970616957167,0.0,32.0,7.0,0.0,0.5001814606034491,0.0,Reorder Now,Raise a replenishment order before stock runs out.,69227.0,0.0,69227.0
+NB-0136,Lighting,Pendant Lights,7.2098847559510775,43.25930853570647,0.0,7.0,7.0,0.0,0.5145553474885877,0.0,Reorder Now,Raise a replenishment order before stock runs out.,67064.0,0.0,67064.0
+NB-0061,Decor,Wall Art,20.919768461126456,125.51861076675874,0.0,30.0,14.0,0.0,0.5219832371193684,0.0,Reorder Now,Raise a replenishment order before stock runs out.,67018.0,0.0,67018.0
+NB-0179,Furniture,Sofas,7.501336995879714,45.00802197527828,0.0,3.0,7.0,0.0,0.8000356468688301,0.0,Reorder Now,Raise a replenishment order before stock runs out.,66959.0,0.0,66959.0
+NB-0054,Furniture,Tables,47.28270095474061,283.69620572844366,0.0,12.0,7.0,0.0,0.8731036958793186,0.0,Reorder Now,Raise a replenishment order before stock runs out.,64318.0,0.0,64318.0
+NB-0078,Lighting,Table Lamps,6.369813343538759,38.218880061232554,0.0,12.0,21.0,0.0,0.5290285855796607,0.0,Reorder Now,Raise a replenishment order before stock runs out.,60666.0,0.0,60666.0
+NB-0109,Small Appliances,Kettles,28.16253821552297,168.97522929313783,0.0,11.0,7.0,0.0,0.8047051030020993,0.0,Reorder Now,Raise a replenishment order before stock runs out.,58933.0,0.0,58933.0
+NB-0125,Small Appliances,Toasters,44.250216896148096,265.5013013768886,0.0,34.0,14.0,0.0,0.74388072808927,0.0,Reorder Now,Raise a replenishment order before stock runs out.,56950.0,0.0,56950.0
+NB-0175,Bed & Bath,Towels,12.8696778063731,77.2180668382386,0.0,8.0,7.0,0.0,0.6891919082838897,0.0,Reorder Now,Raise a replenishment order before stock runs out.,56678.0,0.0,56678.0
+NB-0093,Furniture,Tables,7.609210766483158,45.655264598898945,0.0,7.0,14.0,0.0,0.6933540934874434,0.0,Reorder Now,Raise a replenishment order before stock runs out.,53757.0,0.0,53757.0
+NB-0029,Lighting,Floor Lamps,6.90042438517602,41.40254631105612,0.0,10.0,21.0,0.0,0.6377034425055542,0.0,Reorder Now,Raise a replenishment order before stock runs out.,53249.0,0.0,53249.0
+NB-0197,Small Appliances,Air Purifiers,10.42401784320557,62.544107059233426,0.0,8.0,7.0,0.0,0.6162708026629846,0.0,Reorder Now,Raise a replenishment order before stock runs out.,52824.0,0.0,52824.0
+NB-0188,Bed & Bath,Towels,7.9376250353960955,47.62575021237657,0.0,4.0,7.0,0.0,0.7480354651320213,0.0,Reorder Now,Raise a replenishment order before stock runs out.,48154.0,0.0,48154.0
+NB-0058,Small Appliances,Toasters,28.920880634992983,173.5252838099579,0.0,21.0,7.0,0.0,0.6369405160057448,0.0,Reorder Now,Raise a replenishment order before stock runs out.,47857.0,0.0,47857.0
+NB-0167,Small Appliances,Toasters,25.877337265746647,155.26402359447988,0.0,15.0,7.0,0.0,0.7101711075224262,0.0,Reorder Now,Raise a replenishment order before stock runs out.,46868.0,0.0,46868.0
+NB-0115,Decor,Cushions,25.920109811139266,155.5206588668356,0.0,10.0,7.0,0.0,0.8070995826626001,0.0,Reorder Now,Raise a replenishment order before stock runs out.,46340.0,0.0,46340.0
+NB-0071,Lighting,Table Lamps,6.830097578465899,40.98058547079539,0.0,4.0,7.0,0.0,0.7071784147995704,0.0,Reorder Now,Raise a replenishment order before stock runs out.,43449.0,0.0,43449.0
+NB-0159,Decor,Wall Art,22.36680451587942,134.2008270952765,0.0,28.0,14.0,0.0,0.5827149413897238,0.0,Reorder Now,Raise a replenishment order before stock runs out.,43308.0,0.0,43308.0
+NB-0074,Small Appliances,Blenders,12.046058019602109,72.27634811761266,0.0,8.0,7.0,0.0,0.6679411643634003,0.0,Reorder Now,Raise a replenishment order before stock runs out.,38483.0,0.0,38483.0
+NB-0110,Bed & Bath,Bath Accessories,11.377245101496973,68.26347060898183,0.0,9.0,7.0,0.0,0.6044736700444374,0.0,Reorder Now,Raise a replenishment order before stock runs out.,36639.0,0.0,36639.0
+NB-0171,Small Appliances,Blenders,7.804608655459418,46.82765193275651,125.0,22.0,30.0,16.016177814701955,0.0,1.0,Markdown / Clear,Promote or discount to free up capital.,0.0,34583.0,34583.0
+NB-0017,Decor,Rugs,34.01273091651319,204.07638549907915,0.0,16.0,14.0,0.0,0.8431959684029959,0.0,Reorder Now,Raise a replenishment order before stock runs out.,34525.0,0.0,34525.0
+NB-0050,Decor,Wall Art,8.474979991371216,50.8498799482273,3.0,5.0,7.0,0.3539831366037966,0.5280224845282712,0.0,Reorder Now,Raise a replenishment order before stock runs out.,31381.0,0.0,31381.0
+NB-0144,Furniture,Chairs,15.554914109125432,93.32948465475259,0.0,10.0,14.0,0.0,0.7857054490980568,0.0,Reorder Now,Raise a replenishment order before stock runs out.,30313.0,0.0,30313.0
+NB-0051,Decor,Candles,19.893994985530004,119.36396991318001,0.0,27.0,14.0,0.0,0.5476021781172563,0.0,Reorder Now,Raise a replenishment order before stock runs out.,30246.0,0.0,30246.0
+NB-0112,Lighting,Table Lamps,31.91403953894466,191.48423723366795,0.0,24.0,7.0,0.0,0.6239899375522043,0.0,Reorder Now,Raise a replenishment order before stock runs out.,29272.0,0.0,29272.0
+NB-0162,Bed & Bath,Towels,6.9044945044819,41.426967026891404,0.0,0.0,7.0,0.0,1.0,0.0,Reorder Now,Raise a replenishment order before stock runs out.,27391.0,0.0,27391.0
+NB-0135,Decor,Wall Art,36.84996733376615,221.0998040025969,0.0,17.0,7.0,0.0,0.7693349379929754,0.0,Reorder Now,Raise a replenishment order before stock runs out.,25382.0,0.0,25382.0
+NB-0127,Bed & Bath,Bedding,26.86640806781159,161.19844840686955,17.0,3.0,7.0,0.6327604329202292,0.6277879806351593,0.0,Reorder Now,Raise a replenishment order before stock runs out.,20948.0,0.0,20948.0
+NB-0151,Small Appliances,Toasters,8.591302026348254,51.54781215808953,0.0,7.0,7.0,0.0,0.5926112259508493,0.0,Reorder Now,Raise a replenishment order before stock runs out.,17494.0,0.0,17494.0
+NB-0038,Decor,Cushions,5.660183398277695,33.96110038966617,0.0,1.0,7.0,0.0,0.9116636397060663,0.0,Reorder Now,Raise a replenishment order before stock runs out.,15622.0,0.0,15622.0
+NB-0147,Furniture,Sofas,31.502978145107505,189.01786887064503,0.0,25.0,7.0,0.0,0.6032121172029165,0.0,Reorder Now,Raise a replenishment order before stock runs out.,12399.0,0.0,12399.0
+NB-0077,Bed & Bath,Bedding,6.848753044315779,41.092518265894675,0.0,6.0,7.0,0.0,0.5619640567285612,0.0,Reorder Now,Raise a replenishment order before stock runs out.,11434.0,0.0,11434.0
+NB-0027,Lighting,Floor Lamps,5.354203762543176,32.12522257525906,0.0,1.0,14.0,0.0,0.9377436219993607,0.0,Reorder Now,Raise a replenishment order before stock runs out.,9164.0,0.0,9164.0
+NB-0192,Furniture,Chairs,3.347182735443863,20.083096412663178,0.0,2.0,7.0,0.0,0.7012412888573912,0.0,Reorder Now,Raise a replenishment order before stock runs out.,8607.0,0.0,8607.0
+NB-0089,Lighting,Floor Lamps,3.1547058722887162,18.9282352337323,0.0,2.0,7.0,0.0,0.6830132378475883,0.0,Reorder Now,Raise a replenishment order before stock runs out.,3351.0,0.0,3351.0
+NB-0024,Small Appliances,Blenders,13.424181031332084,80.54508618799251,17.0,18.0,14.0,1.2663714799675259,0.1309215333556195,0.0,Healthy,No action needed; leave as is.,28455.0,0.0,0.0
+NB-0025,Furniture,Chairs,16.202001002712176,97.21200601627305,11.0,7.0,7.0,0.67892848532466,0.4445130574616418,0.0,Healthy,No action needed; leave as is.,57037.0,0.0,0.0
+NB-0026,Furniture,Tables,34.35269191530087,206.11615149180523,87.0,36.0,14.0,2.532552622499133,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0019,Small Appliances,Toasters,16.800489890875372,100.80293934525224,59.0,23.0,21.0,3.5118023571469714,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0032,Small Appliances,Kettles,8.048234090063827,48.28940454038296,0.0,18.0,21.0,0.0,0.44087113400993133,0.0,Healthy,No action needed; leave as is.,95505.0,0.0,0.0
+NB-0035,Bed & Bath,Bedding,6.90237487408545,41.4142492445127,21.0,8.0,14.0,3.0424311027851054,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0028,Decor,Rugs,35.71567084776192,214.29402508657154,17.0,77.0,14.0,0.4759815396569902,0.12270069161260633,0.0,Healthy,No action needed; leave as is.,68038.0,0.0,0.0
+NB-0007,Bed & Bath,Bedding,14.265268673525652,85.59161204115391,17.0,11.0,14.0,1.1917055604812847,0.345730280520079,0.0,Healthy,No action needed; leave as is.,51836.0,0.0,0.0
+NB-0012,Decor,Candles,6.225850559288166,37.355103355729,18.0,10.0,21.0,2.891171226901089,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0010,Decor,Cushions,28.20853032634102,169.25118195804612,84.0,18.0,14.0,2.9778226312471556,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0014,Lighting,Floor Lamps,16.627520184536934,99.7651211072216,0.0,54.0,30.0,0.0,0.3855838932785074,0.0,Healthy,No action needed; leave as is.,112616.0,0.0,0.0
+NB-0015,Decor,Candles,35.9748715241574,215.8492291449444,370.0,79.0,30.0,10.284956813578672,0.0,0.285619601697334,Healthy,No action needed; leave as is.,0.0,30782.0,0.0
+NB-0072,Bed & Bath,Bath Accessories,8.431885967162303,50.591315802973824,8.0,10.0,7.0,0.9487794345364408,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0069,Small Appliances,Air Purifiers,30.608578453721794,183.65147072233077,286.0,71.0,30.0,9.343785776670865,0.0,0.16797322208385812,Healthy,No action needed; leave as is.,0.0,99612.0,0.0
+NB-0066,Small Appliances,Air Purifiers,25.821315899248372,154.92789539549022,46.0,30.0,14.0,1.7814738869036106,0.018898439096562157,0.0,Healthy,No action needed; leave as is.,8783.0,0.0,0.0
+NB-0068,Furniture,Sofas,15.978743780673923,95.87246268404354,24.0,31.0,21.0,1.5019954215066442,0.1394817897618184,0.0,Healthy,No action needed; leave as is.,51736.0,0.0,0.0
+NB-0057,Lighting,Pendant Lights,22.004378970903204,132.02627382541922,201.0,68.0,21.0,9.134545458691926,0.0,0.1418181823364908,Healthy,No action needed; leave as is.,0.0,54085.0,0.0
+NB-0062,Decor,Rugs,8.791572504852356,52.74943502911413,21.0,13.0,14.0,2.388651175703711,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0053,Bed & Bath,Towels,49.56163615138678,297.3698169083207,64.0,45.0,21.0,1.2913213721296652,0.4501795720229159,0.0,Healthy,No action needed; leave as is.,113511.0,0.0,0.0
+NB-0056,Bed & Bath,Towels,8.225776446033892,49.35465867620335,51.0,12.0,21.0,6.200022616052246,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0048,Furniture,Chairs,6.78487275958819,40.70923655752914,8.0,6.0,14.0,1.1790935929777941,0.31219540409628677,0.0,Healthy,No action needed; leave as is.,14159.0,0.0,0.0
+NB-0047,Bed & Bath,Bath Accessories,32.516425436082244,195.09855261649346,97.0,40.0,21.0,2.9831077278366145,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0045,Decor,Rugs,12.94605638862405,77.6763383317443,50.0,26.0,30.0,3.8621799951324145,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0044,Decor,Cushions,8.373375134022352,50.24025080413411,29.0,22.0,21.0,3.463358506675331,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0042,Lighting,Table Lamps,32.50456103296194,195.02736619777164,106.0,50.0,21.0,3.26108080316816,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0043,Small Appliances,Blenders,8.789441944112248,52.73665166467349,10.0,6.0,14.0,1.1377286594058071,0.3932113816502361,0.0,Healthy,No action needed; leave as is.,16417.0,0.0,0.0
+NB-0037,Small Appliances,Air Purifiers,7.068987199156339,42.413923194938036,0.0,11.0,14.0,0.0,0.48130240395621715,0.0,Healthy,No action needed; leave as is.,12305.0,0.0,0.0
+NB-0040,Decor,Wall Art,6.610111089596003,39.66066653757602,0.0,13.0,14.0,0.0,0.34443865245263555,0.0,Healthy,No action needed; leave as is.,24750.0,0.0,0.0
+NB-0087,Lighting,Floor Lamps,12.173532502795611,73.04119501677367,121.0,42.0,30.0,9.939596413137497,0.0,0.24244955164218718,Healthy,No action needed; leave as is.,0.0,42144.0,0.0
+NB-0084,Furniture,Storage,26.062214732786135,156.37328839671682,0.0,31.0,7.0,0.0,0.4052692697485499,0.0,Healthy,No action needed; leave as is.,125953.0,0.0,0.0
+NB-0082,Small Appliances,Kettles,18.441707633999826,110.65024580399896,11.0,23.0,14.0,0.596474047756835,0.38545098109901854,0.0,Healthy,No action needed; leave as is.,10271.0,0.0,0.0
+NB-0073,Decor,Candles,5.108076347371456,30.648458084228732,4.0,7.0,21.0,0.7830736519939339,0.4616368642541705,0.0,Healthy,No action needed; leave as is.,33805.0,0.0,0.0
+NB-0079,Decor,Cushions,23.236011461669758,139.41606877001854,13.0,14.0,7.0,0.5594763981522761,0.41900527884186717,0.0,Healthy,No action needed; leave as is.,76172.0,0.0,0.0
+NB-0076,Lighting,Pendant Lights,15.894819505316029,95.36891703189617,15.0,17.0,14.0,0.9437037013841676,0.3289218123490364,0.0,Healthy,No action needed; leave as is.,61859.0,0.0,0.0
+NB-0117,Furniture,Tables,16.80335090145043,100.82010540870257,148.0,34.0,30.0,8.80776702623195,0.0,0.10097087827899376,Healthy,No action needed; leave as is.,0.0,18107.0,0.0
+NB-0120,Bed & Bath,Towels,16.315105066369913,97.89063039821949,0.0,44.0,30.0,0.0,0.4897780743390288,0.0,Healthy,No action needed; leave as is.,58054.0,0.0,0.0
+NB-0111,Lighting,Pendant Lights,31.307935755800774,187.84761453480465,0.0,34.0,7.0,0.0,0.4570066793097268,0.0,Healthy,No action needed; leave as is.,217564.0,0.0,0.0
+NB-0108,Bed & Bath,Towels,17.20139028781718,103.20834172690309,23.0,20.0,14.0,1.3371012235150355,0.16673402012831126,0.0,Healthy,No action needed; leave as is.,24016.0,0.0,0.0
+NB-0113,Lighting,Pendant Lights,30.09055497167758,180.5433298300655,60.0,43.0,14.0,1.9939811697216743,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0080,Decor,Cushions,26.68163492784002,160.0898095670401,147.0,75.0,30.0,5.509407515602351,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0092,Decor,Cushions,32.879664498510714,197.27798699106427,0.0,57.0,14.0,0.0,0.4221352227952141,0.0,Healthy,No action needed; leave as is.,280290.0,0.0,0.0
+NB-0101,Decor,Cushions,7.025215261199379,42.151291567196274,41.0,15.0,21.0,5.836120101037342,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0103,Furniture,Chairs,46.48228154011297,278.8936892406778,353.0,0.0,21.0,7.5942915946449485,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0104,Lighting,Pendant Lights,8.66438644362872,51.986318661772316,0.0,19.0,14.0,0.0,0.26903845130424736,0.0,Healthy,No action needed; leave as is.,69697.0,0.0,0.0
+NB-0129,Furniture,Storage,26.063045302451304,156.37827181470783,238.0,54.0,21.0,9.131703422915642,0.0,0.14146292786445525,Healthy,No action needed; leave as is.,0.0,80692.0,0.0
+NB-0131,Decor,Wall Art,15.563193240218036,93.37915944130822,0.0,22.0,7.0,0.0,0.29320417537616505,0.0,Healthy,No action needed; leave as is.,13412.0,0.0,0.0
+NB-0123,Furniture,Tables,28.794455898887964,172.7667353933278,4.0,29.0,7.0,0.13891563063549603,0.4269730236285789,0.0,Healthy,No action needed; leave as is.,200275.0,0.0,0.0
+NB-0122,Decor,Cushions,9.089683158186514,54.53809894911908,59.0,20.0,21.0,6.490875311408667,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0116,Bed & Bath,Towels,8.964607420444764,53.787644522668586,8.0,7.0,14.0,0.8923982529067729,0.44225109193326695,0.0,Healthy,No action needed; leave as is.,30996.0,0.0,0.0
+NB-0114,Bed & Bath,Towels,27.225920168738412,163.35552101243047,0.0,41.0,7.0,0.0,0.24704105966127485,0.0,Healthy,No action needed; leave as is.,79449.0,0.0,0.0
+NB-0158,Furniture,Tables,18.6349282404021,111.8095694424126,93.0,31.0,21.0,4.990628286851576,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0157,Decor,Rugs,17.145528365819086,102.87317019491452,0.0,18.0,7.0,0.0,0.4750817934580433,0.0,Healthy,No action needed; leave as is.,8399.0,0.0,0.0
+NB-0143,Bed & Bath,Bath Accessories,9.143423692032444,54.86054215219466,9.0,16.0,21.0,0.9843140056872326,0.3164486071616441,0.0,Healthy,No action needed; leave as is.,8532.0,0.0,0.0
+NB-0141,Decor,Candles,14.405373430287725,86.43224058172635,82.0,8.0,14.0,5.692320327329562,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0137,Lighting,Pendant Lights,16.67677386208879,100.06064317253274,0.0,38.0,21.0,0.0,0.4303454565876022,0.0,Healthy,No action needed; leave as is.,58318.0,0.0,0.0
+NB-0139,Decor,Candles,15.885777952391509,95.31466771434906,0.0,29.0,14.0,0.0,0.3914892493375556,0.0,Healthy,No action needed; leave as is.,34552.0,0.0,0.0
+NB-0150,Decor,Rugs,8.08649666504506,48.51897999027035,3.0,6.0,7.0,0.37098883784468656,0.4435167432329702,0.0,Healthy,No action needed; leave as is.,4981.0,0.0,0.0
+NB-0148,Decor,Wall Art,28.04010235410401,168.24061412462407,0.0,35.0,7.0,0.0,0.37589386161999294,0.0,Healthy,No action needed; leave as is.,162372.0,0.0,0.0
+NB-0152,Furniture,Storage,30.692344071984067,184.1540644319044,159.0,44.0,14.0,5.180444987423916,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0160,Small Appliances,Kettles,5.627915797831512,33.76749478698907,0.0,8.0,7.0,0.0,0.2892573123533161,0.0,Healthy,No action needed; leave as is.,20724.0,0.0,0.0
+NB-0168,Decor,Wall Art,23.65692897483555,141.9415738490133,101.0,39.0,21.0,4.269362270455145,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0165,Lighting,Floor Lamps,57.14426284085122,342.86557704510733,37.0,55.0,7.0,0.647484072076427,0.19501980228336102,0.0,Healthy,No action needed; leave as is.,142199.0,0.0,0.0
+NB-0161,Furniture,Tables,15.718257014744585,94.30954208846751,58.0,7.0,14.0,3.6899765632787926,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0164,Lighting,Table Lamps,33.69624108923892,202.1774465354335,0.0,60.0,14.0,0.0,0.4064619864561952,0.0,Healthy,No action needed; leave as is.,102339.0,0.0,0.0
+NB-0153,Lighting,Table Lamps,16.813299980961204,100.87979988576723,4.0,23.0,14.0,0.23790689540598578,0.464709485336532,0.0,Healthy,No action needed; leave as is.,9676.0,0.0,0.0
+NB-0172,Bed & Bath,Bath Accessories,8.859623980919851,53.1577438855191,98.0,15.0,14.0,11.061417528673168,0.0,0.382677191084146,Healthy,No action needed; leave as is.,0.0,81718.0,0.0
+NB-0174,Decor,Rugs,18.526015843193147,111.15609505915887,21.0,32.0,14.0,1.1335410796226781,0.04638607587298496,0.0,Healthy,No action needed; leave as is.,9793.0,0.0,0.0
+NB-0173,Bed & Bath,Bedding,8.016252057530517,48.0975123451831,10.0,7.0,14.0,1.2474657643288471,0.2931027335469867,0.0,Healthy,No action needed; leave as is.,50153.0,0.0,0.0
+NB-0184,Bed & Bath,Towels,48.32427708540883,289.945662512453,97.0,80.0,21.0,2.0072726556997673,0.08431118541531228,0.0,Healthy,No action needed; leave as is.,41433.0,0.0,0.0
+NB-0182,Furniture,Storage,27.540012963414103,165.24007778048463,49.0,24.0,14.0,1.7792293730977797,0.11643711403987816,0.0,Healthy,No action needed; leave as is.,12314.0,0.0,0.0
+NB-0177,Decor,Wall Art,12.090331385623655,72.54198831374192,9.0,19.0,21.0,0.7443964696204854,0.4210249680729558,0.0,Healthy,No action needed; leave as is.,135449.0,0.0,0.0
+NB-0185,Decor,Cushions,33.697657485488975,202.18594491293385,71.0,48.0,14.0,2.106971383116892,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0189,Decor,Rugs,20.465993885755143,122.79596331453085,22.0,30.0,21.0,1.0749539026938029,0.36479996659002556,0.0,Healthy,No action needed; leave as is.,253373.0,0.0,0.0
+NB-0193,Furniture,Sofas,12.3296633170446,73.9779799022676,51.0,12.0,21.0,4.136365988963973,0.0,0.0,Healthy,No action needed; leave as is.,0.0,0.0,0.0
+NB-0196,Furniture,Storage,24.011538539297522,144.06923123578514,42.0,19.0,14.0,1.749159052480639,0.15318490316413513,0.0,Healthy,No action needed; leave as is.,66082.0,0.0,0.0
+NB-0198,Furniture,Tables,6.750160904721063,40.500965428326374,63.0,7.0,14.0,9.333110853096525,0.0,0.16663885663706557,Healthy,No action needed; leave as is.,0.0,3500.0,0.0

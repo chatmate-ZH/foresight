@@ -1,0 +1,38 @@
+{
+  "n_skus": 200,
+  "n_weeks": 105,
+  "date_range": [
+    "2024-01-01",
+    "2025-12-29"
+  ],
+  "total_units_sold": 362324,
+  "total_revenue": 1432376473.9099998,
+  "top_5_skus": {
+    "NB-0199": 8430,
+    "NB-0142": 7031,
+    "NB-0065": 6920,
+    "NB-0163": 6458,
+    "NB-0022": 6235
+  },
+  "bottom_5_skus": {
+    "NB-0151": 44,
+    "NB-0035": 42,
+    "NB-0072": 37,
+    "NB-0101": 34,
+    "NB-0172": 29
+  },
+  "dead_stock_sku_count": 0,
+  "dead_stock_skus": [],
+  "units_by_category": {
+    "Decor": 89142,
+    "Furniture": 76900,
+    "Small Appliances": 73309,
+    "Lighting": 71225,
+    "Bed & Bath": 51748
+  },
+  "promo_lift_pct": 68.7,
+  "demand_cv": 0.348,
+  "peak_week": "2025-11-24",
+  "trough_week": "2024-08-26",
+  "top20pct_revenue_share": 62.1
+}

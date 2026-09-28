@@ -1,0 +1,79 @@
+{
+  "n_folds": 5,
+  "avg_model_wape": 0.245,
+  "avg_baseline_wape": 0.3017,
+  "improvement_pct": 18.8,
+  "model_beats_baseline_overall": true,
+  "folds": [
+    {
+      "fold": 1,
+      "train_start": "2024-01-01",
+      "train_end": "2025-06-02",
+      "test_start": "2025-06-09",
+      "test_end": "2025-07-14",
+      "n_train_rows": 2350,
+      "n_test_rows": 918,
+      "model_wape": 0.1924,
+      "baseline_wape": 0.2581,
+      "model_bias": -0.0623,
+      "baseline_bias": -0.1018,
+      "model_beats_baseline": true
+    },
+    {
+      "fold": 2,
+      "train_start": "2024-01-01",
+      "train_end": "2025-07-14",
+      "test_start": "2025-07-21",
+      "test_end": "2025-08-25",
+      "n_train_rows": 3008,
+      "n_test_rows": 944,
+      "model_wape": 0.2262,
+      "baseline_wape": 0.3194,
+      "model_bias": 0.0893,
+      "baseline_bias": 0.0135,
+      "model_beats_baseline": true
+    },
+    {
+      "fold": 3,
+      "train_start": "2024-01-01",
+      "train_end": "2025-08-25",
+      "test_start": "2025-09-01",
+      "test_end": "2025-10-06",
+      "n_train_rows": 3689,
+      "n_test_rows": 989,
+      "model_wape": 0.2466,
+      "baseline_wape": 0.2579,
+      "model_bias": -0.1778,
+      "baseline_bias": -0.0904,
+      "model_beats_baseline": true
+    },
+    {
+      "fold": 4,
+      "train_start": "2024-01-01",
+      "train_end": "2025-10-06",
+      "test_start": "2025-10-13",
+      "test_end": "2025-11-17",
+      "n_train_rows": 4385,
+      "n_test_rows": 1083,
+      "model_wape": 0.2196,
+      "baseline_wape": 0.2563,
+      "model_bias": -0.1426,
+      "baseline_bias": -0.1042,
+      "model_beats_baseline": true
+    },
+    {
+      "fold": 5,
+      "train_start": "2024-01-01",
+      "train_end": "2025-11-17",
+      "test_start": "2025-11-24",
+      "test_end": "2025-12-29",
+      "n_train_rows": 5101,
+      "n_test_rows": 1185,
+      "model_wape": 0.3404,
+      "baseline_wape": 0.4167,
+      "model_bias": 0.0116,
+      "baseline_bias": 0.0494,
+      "model_beats_baseline": true
+    }
+  ]
+}
